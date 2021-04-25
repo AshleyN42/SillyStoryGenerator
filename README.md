@@ -1,1 +1,1 @@
-# SillyStoryGenerator
+# sillyStoryGenerator
